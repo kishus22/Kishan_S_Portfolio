@@ -151,9 +151,9 @@ npm run start
 
 ## Contact
 
-- Email: kishan@example.com
-- LinkedIn: [linkedin.com/in/kishans](https://linkedin.com/in/kishans)
-- GitHub: [github.com/kishans](https://github.com/kishans)
+- Email: kishan.s.220803@gmail.com
+- LinkedIn: [linkedin.com/in/kishans](https://www.linkedin.com/in/kishan-s-3128222a1)
+- GitHub: [github.com/kishans](https://github.com/kishus22)
 
 ---
 
